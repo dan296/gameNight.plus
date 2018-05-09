@@ -1,5 +1,7 @@
 # gameNight.plus
 
+URL: https://www.gamenight.plus/
+
 Mafia
 
 Play Mafia:
