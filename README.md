@@ -8,14 +8,15 @@ GameNight+ is an online party game hosting service. We work hard to create an on
   ### Wifi
   - Visit www.gamenight.plus
   ### Friends
+  - At least 5 others
 
 ## Utilization
 ### Select a game to play (games listed below in "Games" Section)
 ### Watch instructional video, read instructions, or create a game
 ### Creating a Game
-#### Fill out the form field
-#### Click Create Game
-#### Share the Code with your Friends
+- Fill out the form field
+- Click Create Game
+- Share the Code with your Friends
 
 ## Games
 
