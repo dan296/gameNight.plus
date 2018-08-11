@@ -1,4 +1,4 @@
-# gameNight.plus
+# GameNight+
 
 URL: https://www.gamenight.plus/
 
