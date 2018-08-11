@@ -8,6 +8,14 @@ We work hard to create an online version of classic party games. Just create a g
 ### Wifi
 ### Friends
 
+## Utilization
+### Select a game to play (games listed below in "Games" Section)
+### Watch instructional video, read instructions, or create a game
+### Creating a Game
+#### Fill out the form field
+#### Click Create Game
+#### Share the Code with your Friends
+
 ## Games
 
 ### Mafia
