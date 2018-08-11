@@ -1,6 +1,6 @@
 # GameNight+
 
-GameNight+ is a party game hosting service. We work hard to create an online version of classic party games. Just create a game, acquire the game code, and share it so others can join in on the fun!
+GameNight+ is an online party game hosting service. We work hard to create an online version of classic party games. Just create a game, acquire the game code, and share it so others can join in on the fun!
 
 ## Prerequisites
 ### Hardware
