@@ -2,9 +2,11 @@
 
 We work hard to create an online version of classic party games. Just create a game, acquire the game code, and share it so others can join in on the fun!
 
-## Mafia
+## Games
 
-### Play Mafia:
+### Mafia
+
+#### Play Mafia:
 
 A party of people ranging from 3-100 can come together and play a game of Mafia using this app. Just input the number for each type of character and share the game code! Once everyone inputs the game code on the home page, they are in the game and will get assigned their distinguishable character once everyone has joined.
 
