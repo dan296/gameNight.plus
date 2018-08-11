@@ -4,7 +4,7 @@ GameNight+ is an online party game hosting service. We work hard to create an on
 
 ## Prerequisites
 - Hardware
-- Mobile Phone or Laptop
+  - Mobile Phone or Laptop
 - Wifi
 -- Visit www.gamenight.plus
 - Friends
